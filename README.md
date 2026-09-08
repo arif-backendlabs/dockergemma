@@ -11,6 +11,10 @@ This setup does NOT use Ollama.
 
 Docker Desktop is required to run AI models locally using Docker’s built-in Model Runner.
 
+
+
+
+
 Download Docker Desktop from:
 https://www.docker.com/products/docker-desktop/
 
